@@ -1,0 +1,834 @@
+{
+  "rooms": [
+    {
+      "file": "rooms/rooms-1.jpg",
+      "alt": "white 2-piece sofa and brown wooden coffee table",
+      "color": "#262626",
+      "credit": "@felirbe",
+      "creditUrl": "https://unsplash.com/@felirbe?utm_source=presto_ds&utm_medium=referral",
+      "id": "1qvUsVrKrMI"
+    },
+    {
+      "file": "rooms/rooms-2.jpg",
+      "alt": "white bed linen near brown window curtain",
+      "color": "#594026",
+      "credit": "Marin huang",
+      "creditUrl": "https://unsplash.com/@marinhaung?utm_source=presto_ds&utm_medium=referral",
+      "id": "4jbtOwBRGcY"
+    },
+    {
+      "file": "rooms/rooms-3.jpg",
+      "alt": "white bed near brown window curtain",
+      "color": "#8c7359",
+      "credit": "reisetopia",
+      "creditUrl": "https://unsplash.com/@reisetopia?utm_source=presto_ds&utm_medium=referral",
+      "id": "Y7WfCuz5tn0"
+    },
+    {
+      "file": "rooms/rooms-4.jpg",
+      "alt": "a living room with a couch and a table",
+      "color": "#737373",
+      "credit": "mahmoud azmy",
+      "creditUrl": "https://unsplash.com/@mahmoud_azmy?utm_source=presto_ds&utm_medium=referral",
+      "id": "7Kk8ONcAXqk"
+    },
+    {
+      "file": "rooms/rooms-5.jpg",
+      "alt": "A bedroom with a white bed and a wooden headboard",
+      "color": "#595940",
+      "credit": "Antonio Araujo",
+      "creditUrl": "https://unsplash.com/@antonioaaaraujo?utm_source=presto_ds&utm_medium=referral",
+      "id": "WWYF8Lts8Ho"
+    },
+    {
+      "file": "rooms/rooms-6.jpg",
+      "alt": "a bedroom with a bed and a couch in it",
+      "color": "#d9d9d9",
+      "credit": "Red Reyes",
+      "creditUrl": "https://unsplash.com/@silentlymine?utm_source=presto_ds&utm_medium=referral",
+      "id": "EPTPmtUhcnY"
+    },
+    {
+      "file": "rooms/rooms-7.jpg",
+      "alt": "a living area with a couch, chair, table, and windows",
+      "color": "#8c7373",
+      "credit": "Masato Tsuchiya",
+      "creditUrl": "https://unsplash.com/@masatogoodbye?utm_source=presto_ds&utm_medium=referral",
+      "id": "Gi5uI8uZJjg"
+    },
+    {
+      "file": "rooms/rooms-8.jpg",
+      "alt": "a bed with white pillows and a phone on it",
+      "color": "#c0c0c0",
+      "credit": "Travis Chen",
+      "creditUrl": "https://unsplash.com/@msz010dzeta?utm_source=presto_ds&utm_medium=referral",
+      "id": "cAkJn5M13mo"
+    },
+    {
+      "file": "rooms/rooms-9.jpg",
+      "alt": "a hotel room with a bed, chair and television",
+      "color": "#f3f3f3",
+      "credit": "Yu-Yi Tsai",
+      "creditUrl": "https://unsplash.com/@gaga3246?utm_source=presto_ds&utm_medium=referral",
+      "id": "UX_Pn1L2FkQ"
+    },
+    {
+      "file": "rooms/rooms-10.jpg",
+      "alt": "a hotel room with a tv and a bed",
+      "color": "#c0a68c",
+      "credit": "Jenevy Vergara",
+      "creditUrl": "https://unsplash.com/@jenevoo?utm_source=presto_ds&utm_medium=referral",
+      "id": "8hGJaAJyzIg"
+    },
+    {
+      "file": "rooms/rooms-11.jpg",
+      "alt": "a bed sitting in a bedroom next to a window",
+      "color": "#404026",
+      "credit": "Kimberley Alpuerto",
+      "creditUrl": "https://unsplash.com/@kalpuerto?utm_source=presto_ds&utm_medium=referral",
+      "id": "gYCj5LrI9wI"
+    },
+    {
+      "file": "rooms/rooms-12.jpg",
+      "alt": "black bed linen near white table",
+      "color": "#f3f3f3",
+      "credit": "Andrew Neel",
+      "creditUrl": "https://unsplash.com/@andrewtneel?utm_source=presto_ds&utm_medium=referral",
+      "id": "T0eb55DxDN4"
+    }
+  ],
+  "suites": [
+    {
+      "file": "suites/suites-1.jpg",
+      "alt": "brown and white couch beside brown wooden coffee table",
+      "color": "#c08c73",
+      "credit": "reisetopia",
+      "creditUrl": "https://unsplash.com/@reisetopia?utm_source=presto_ds&utm_medium=referral",
+      "id": "cbxynt_6Aao"
+    },
+    {
+      "file": "suites/suites-2.jpg",
+      "alt": "brown wooden chair beside white bed",
+      "color": "#c0c0c0",
+      "credit": "Point3D Commercial Imaging Ltd.",
+      "creditUrl": "https://unsplash.com/@3dottawa?utm_source=presto_ds&utm_medium=referral",
+      "id": "bKngjZkGZ1o"
+    },
+    {
+      "file": "suites/suites-3.jpg",
+      "alt": "a living room filled with furniture and a large window",
+      "color": "#c0c0c0",
+      "credit": "MD SHAFAAT HOSSAIN",
+      "creditUrl": "https://unsplash.com/@sha99hossain?utm_source=presto_ds&utm_medium=referral",
+      "id": "9kPH5hA-d7U"
+    },
+    {
+      "file": "suites/suites-4.jpg",
+      "alt": "black flat screen tv on black wooden tv rack",
+      "color": "#c0c0c0",
+      "credit": "Point3D Commercial Imaging Ltd.",
+      "creditUrl": "https://unsplash.com/@3dottawa?utm_source=presto_ds&utm_medium=referral",
+      "id": "yrLUGKnDrDo"
+    },
+    {
+      "file": "suites/suites-5.jpg",
+      "alt": "black flat screen tv on black tv rack",
+      "color": "#d9d9d9",
+      "credit": "Point3D Commercial Imaging Ltd.",
+      "creditUrl": "https://unsplash.com/@3dottawa?utm_source=presto_ds&utm_medium=referral",
+      "id": "xZVUrCAI1bc"
+    },
+    {
+      "file": "suites/suites-6.jpg",
+      "alt": "Luxurious hotel room with city view and large television",
+      "color": "#40260c",
+      "credit": "Dynamic Hong Kong",
+      "creditUrl": "https://unsplash.com/@dynamic_hk?utm_source=presto_ds&utm_medium=referral",
+      "id": "km5I2E-mJbo"
+    },
+    {
+      "file": "suites/suites-7.jpg",
+      "alt": "Modern lounge area with city view through large window",
+      "color": "#f3f3f3",
+      "credit": "Dynamic Hong Kong",
+      "creditUrl": "https://unsplash.com/@dynamic_hk?utm_source=presto_ds&utm_medium=referral",
+      "id": "ORv8iLhv908"
+    },
+    {
+      "file": "suites/suites-8.jpg",
+      "alt": "Modern living room with city view through window",
+      "color": "#f3f3f3",
+      "credit": "Dynamic Hong Kong",
+      "creditUrl": "https://unsplash.com/@dynamic_hk?utm_source=presto_ds&utm_medium=referral",
+      "id": "uXH0I1SDU7o"
+    }
+  ],
+  "lobby": [
+    {
+      "file": "lobby/lobby-1.jpg",
+      "alt": "a room with a checkered floor and a bar",
+      "color": "#262626",
+      "credit": "Steven Van Elk",
+      "creditUrl": "https://unsplash.com/@stevenvanelk?utm_source=presto_ds&utm_medium=referral",
+      "id": "1CcryZiF2PA"
+    },
+    {
+      "file": "lobby/lobby-2.jpg",
+      "alt": "A cozy lounge area with built-in shelving.",
+      "color": "#260c0c",
+      "credit": "Yanhao Fang",
+      "creditUrl": "https://unsplash.com/@alamanga?utm_source=presto_ds&utm_medium=referral",
+      "id": "TVnD0CQva58"
+    },
+    {
+      "file": "lobby/lobby-3.jpg",
+      "alt": "Modern lounge area with comfortable seating and floral arrangement.",
+      "color": "#262626",
+      "credit": "Yanhao Fang",
+      "creditUrl": "https://unsplash.com/@alamanga?utm_source=presto_ds&utm_medium=referral",
+      "id": "JhHiAtofX1U"
+    },
+    {
+      "file": "lobby/lobby-4.jpg",
+      "alt": "Modern hotel lobby with elevator doors and artwork",
+      "color": "#735926",
+      "credit": "Andy Wang",
+      "creditUrl": "https://unsplash.com/@space_launch_system?utm_source=presto_ds&utm_medium=referral",
+      "id": "hV1myjiP9yI"
+    },
+    {
+      "file": "lobby/lobby-5.jpg",
+      "alt": "Hallway with two chairs, console table, and artwork.",
+      "color": "#735940",
+      "credit": "Wafiq Raza",
+      "creditUrl": "https://unsplash.com/@wafiqraza?utm_source=presto_ds&utm_medium=referral",
+      "id": "huYOKVaD-e0"
+    },
+    {
+      "file": "lobby/lobby-6.jpg",
+      "alt": "Modern interior with circular seating and atrium",
+      "color": "#d9d9d9",
+      "credit": "Neon Wang",
+      "creditUrl": "https://unsplash.com/@neonwangphotography?utm_source=presto_ds&utm_medium=referral",
+      "id": "HGh4q5qS7iw"
+    },
+    {
+      "file": "lobby/lobby-7.jpg",
+      "alt": "Modern interior with curved balconies and central bar area.",
+      "color": "#f3d9d9",
+      "credit": "Neon Wang",
+      "creditUrl": "https://unsplash.com/@neonwangphotography?utm_source=presto_ds&utm_medium=referral",
+      "id": "FiKecrJvqGw"
+    },
+    {
+      "file": "lobby/lobby-8.jpg",
+      "alt": "Modern lobby with contemporary art installation and seating area",
+      "color": "#c0c0c0",
+      "credit": "Haris Illahi",
+      "creditUrl": "https://unsplash.com/@harisillahi?utm_source=presto_ds&utm_medium=referral",
+      "id": "KR4u_ejqQGw"
+    }
+  ],
+  "pool": [
+    {
+      "file": "pool/pool-1.jpg",
+      "alt": "swimming pool near ocean",
+      "color": "#a6d9f3",
+      "credit": "Paolo Nicolello",
+      "creditUrl": "https://unsplash.com/@paul_nic?utm_source=presto_ds&utm_medium=referral",
+      "id": "2gOxKj594nM"
+    },
+    {
+      "file": "pool/pool-2.jpg",
+      "alt": "green palm trees near swimming pool during daytime",
+      "color": "#f3f3f3",
+      "credit": "Fabio Fistarol",
+      "creditUrl": "https://unsplash.com/@fabiofistarol?utm_source=presto_ds&utm_medium=referral",
+      "id": "qai_Clhyq0s"
+    },
+    {
+      "file": "pool/pool-3.jpg",
+      "alt": "brown wooden lounge chairs on brown wooden dock during daytime",
+      "color": "#f3f3f3",
+      "credit": "Sasha Kaunas",
+      "creditUrl": "https://unsplash.com/@akaunas?utm_source=presto_ds&utm_medium=referral",
+      "id": "xEaAoizNFV8"
+    },
+    {
+      "file": "pool/pool-4.jpg",
+      "alt": "brown wooden table and chairs on brown wooden deck near body of water during daytime",
+      "color": "#262626",
+      "credit": "Sasha Kaunas",
+      "creditUrl": "https://unsplash.com/@akaunas?utm_source=presto_ds&utm_medium=referral",
+      "id": "TAgGZWz6Qg8"
+    },
+    {
+      "file": "pool/pool-5.jpg",
+      "alt": "brown wooden lounge chairs near body of water during daytime",
+      "color": "#c0d9d9",
+      "credit": "Yuliya Pankevich",
+      "creditUrl": "https://unsplash.com/@i_story_pictures?utm_source=presto_ds&utm_medium=referral",
+      "id": "oyxsG2Lh_uA"
+    },
+    {
+      "file": "pool/pool-6.jpg",
+      "alt": "woman in water pool",
+      "color": "#f3f3f3",
+      "credit": "Alex Bertha",
+      "creditUrl": "https://unsplash.com/@alexbertha?utm_source=presto_ds&utm_medium=referral",
+      "id": "Jyg7xHRmXiU"
+    },
+    {
+      "file": "pool/pool-7.jpg",
+      "alt": "green leafed plant near white concrete post",
+      "color": "#0ca6c0",
+      "credit": "big.tiny.belly",
+      "creditUrl": "https://unsplash.com/@bigtinybelly?utm_source=presto_ds&utm_medium=referral",
+      "id": "XtnNrQYC7ts"
+    },
+    {
+      "file": "pool/pool-8.jpg",
+      "alt": "wide angle photo of brown and blue building",
+      "color": "#26738c",
+      "credit": "Alex Korolkoff",
+      "creditUrl": "https://unsplash.com/@koff?utm_source=presto_ds&utm_medium=referral",
+      "id": "_6ROq_LmdkM"
+    }
+  ],
+  "spa": [
+    {
+      "file": "spa/spa-1.jpg",
+      "alt": "woman in water pool",
+      "color": "#f3f3f3",
+      "credit": "Alex Bertha",
+      "creditUrl": "https://unsplash.com/@alexbertha?utm_source=presto_ds&utm_medium=referral",
+      "id": "Jyg7xHRmXiU"
+    },
+    {
+      "file": "spa/spa-2.jpg",
+      "alt": "person holding white round ornament",
+      "color": "#d9a673",
+      "credit": "engin akyurt",
+      "creditUrl": "https://unsplash.com/@enginakyurt?utm_source=presto_ds&utm_medium=referral",
+      "id": "SMwCQZWayj0"
+    },
+    {
+      "file": "spa/spa-3.jpg",
+      "alt": "woman in white robe sitting on white couch",
+      "color": "#8c7359",
+      "credit": "Usen Parmanov",
+      "creditUrl": "https://unsplash.com/@parmantegin?utm_source=presto_ds&utm_medium=referral",
+      "id": "I3VF9Cu4agc"
+    },
+    {
+      "file": "spa/spa-4.jpg",
+      "alt": "a couple of chairs sitting next to each other in a room",
+      "color": "#260c0c",
+      "credit": "Sherzod Gulomov",
+      "creditUrl": "https://unsplash.com/@s_g_arch?utm_source=presto_ds&utm_medium=referral",
+      "id": "npE_I2GzpHY"
+    },
+    {
+      "file": "spa/spa-5.jpg",
+      "alt": "woman in black tube top sitting on chair",
+      "color": "#a6c0c0",
+      "credit": "The Anam",
+      "creditUrl": "https://unsplash.com/@theanamcxr?utm_source=presto_ds&utm_medium=referral",
+      "id": "X1s5YSBw8lU"
+    },
+    {
+      "file": "spa/spa-6.jpg",
+      "alt": "woman in white hijab sitting on chair",
+      "color": "#260c0c",
+      "credit": "Usen Parmanov",
+      "creditUrl": "https://unsplash.com/@parmantegin?utm_source=presto_ds&utm_medium=referral",
+      "id": "JJi82Ayk_kQ"
+    },
+    {
+      "file": "spa/spa-7.jpg",
+      "alt": "A large swimming pool with a lounge chair next to it",
+      "color": "#f3f3f3",
+      "credit": "Nereid Ndreu",
+      "creditUrl": "https://unsplash.com/@nereiq?utm_source=presto_ds&utm_medium=referral",
+      "id": "cS4Ly93l_RA"
+    },
+    {
+      "file": "spa/spa-8.jpg",
+      "alt": "A spa room with a spa bed and a shower",
+      "color": "#c0c0c0",
+      "credit": "ikhbale",
+      "creditUrl": "https://unsplash.com/@ikhbale?utm_source=presto_ds&utm_medium=referral",
+      "id": "lyicBM-7zFA"
+    }
+  ],
+  "dining": [
+    {
+      "file": "dining/dining-1.jpg",
+      "alt": "a room with tables and chairs",
+      "color": "#260c0c",
+      "credit": "Glenov Brankovic",
+      "creditUrl": "https://unsplash.com/@glenovbrankovic?utm_source=presto_ds&utm_medium=referral",
+      "id": "e4B5AvA7Jqo"
+    },
+    {
+      "file": "dining/dining-2.jpg",
+      "alt": "person sitting at the corner of the room",
+      "color": "#260c0c",
+      "credit": "Igor Rand",
+      "creditUrl": "https://unsplash.com/@igorrand?utm_source=presto_ds&utm_medium=referral",
+      "id": "Cnfu7o_780g"
+    },
+    {
+      "file": "dining/dining-3.jpg",
+      "alt": "inside bar photo",
+      "color": "#262626",
+      "credit": "LYCS Architecture",
+      "creditUrl": "https://unsplash.com/@lycs?utm_source=presto_ds&utm_medium=referral",
+      "id": "baxEyU9FL7g"
+    },
+    {
+      "file": "dining/dining-4.jpg",
+      "alt": "woman in front on brown dining table and chairs inside building",
+      "color": "#262626",
+      "credit": "Louis Hansel",
+      "creditUrl": "https://unsplash.com/@louishansel?utm_source=presto_ds&utm_medium=referral",
+      "id": "wVoP_Q2Bg_A"
+    },
+    {
+      "file": "dining/dining-5.jpg",
+      "alt": "clear wine glasses on top of dining table",
+      "color": "#26260c",
+      "credit": "Ronan",
+      "creditUrl": "https://unsplash.com/@ronank?utm_source=presto_ds&utm_medium=referral",
+      "id": "PCE0T5i4pDI"
+    },
+    {
+      "file": "dining/dining-6.jpg",
+      "alt": "brown wooden dining set inside room",
+      "color": "#d9d9d9",
+      "credit": "Zakaria Zayane",
+      "creditUrl": "https://unsplash.com/@kazizayane?utm_source=presto_ds&utm_medium=referral",
+      "id": "0uAVsDcyD0M"
+    },
+    {
+      "file": "dining/dining-7.jpg",
+      "alt": "black pendant lamp turned on",
+      "color": "#262626",
+      "credit": "Maria Orlova",
+      "creditUrl": "https://unsplash.com/@orlovamaria?utm_source=presto_ds&utm_medium=referral",
+      "id": "oMTlhdFUhdI"
+    },
+    {
+      "file": "dining/dining-8.jpg",
+      "alt": "a dining room with a lot of tables and chairs",
+      "color": "#734026",
+      "credit": "Zoshua Colah",
+      "creditUrl": "https://unsplash.com/@zoshuacolah?utm_source=presto_ds&utm_medium=referral",
+      "id": "vG-HDgrepRg"
+    }
+  ],
+  "exterior": [
+    {
+      "file": "exterior/exterior-1.jpg",
+      "alt": "A large hotel building with blue shutters and windows",
+      "color": "#8c8c8c",
+      "credit": "Rafi Thissen",
+      "creditUrl": "https://unsplash.com/@rafithissen?utm_source=presto_ds&utm_medium=referral",
+      "id": "bpvWdfSnt0Q"
+    },
+    {
+      "file": "exterior/exterior-2.jpg",
+      "alt": "Modern building with balconies and awnings",
+      "color": "#f3f3f3",
+      "credit": "Darien Attridge",
+      "creditUrl": "https://unsplash.com/@dariendesigns?utm_source=presto_ds&utm_medium=referral",
+      "id": "LPx6qAimByw"
+    },
+    {
+      "file": "exterior/exterior-3.jpg",
+      "alt": "Luggage carts outside a modern building at night",
+      "color": "#262626",
+      "credit": "Heng Chiu",
+      "creditUrl": "https://unsplash.com/@chiuchuuu?utm_source=presto_ds&utm_medium=referral",
+      "id": "fCQKFH_zu8c"
+    },
+    {
+      "file": "exterior/exterior-4.jpg",
+      "alt": "Modern apartment building with green trees in foreground",
+      "color": "#f3f3f3",
+      "credit": "Bayu Syaits",
+      "creditUrl": "https://unsplash.com/@bayusyaits?utm_source=presto_ds&utm_medium=referral",
+      "id": "7q2T3Co2Duc"
+    },
+    {
+      "file": "exterior/exterior-5.jpg",
+      "alt": "Modern hotel building with balconies and cityscape background apartments nearby.",
+      "color": "#a6d9f3",
+      "credit": "Shalev Cohen",
+      "creditUrl": "https://unsplash.com/@shalevcohen?utm_source=presto_ds&utm_medium=referral",
+      "id": "QL4mjbvl9XI"
+    },
+    {
+      "file": "exterior/exterior-6.jpg",
+      "alt": "Curving architectural facade with balconies against cloudy sky",
+      "color": "#c0c0a6",
+      "credit": "Austin Phillips",
+      "creditUrl": "https://unsplash.com/@austinjphillips?utm_source=presto_ds&utm_medium=referral",
+      "id": "HY17DZO35_A"
+    },
+    {
+      "file": "exterior/exterior-7.jpg",
+      "alt": "Grand hotel facade with ornate balconies and windows",
+      "color": "#f3f3f3",
+      "credit": "Raymond Petrik",
+      "creditUrl": "https://unsplash.com/@raymondpetrik?utm_source=presto_ds&utm_medium=referral",
+      "id": "xHbgCcqQ2Yo"
+    },
+    {
+      "file": "exterior/exterior-8.jpg",
+      "alt": "White modern building with mountains in the background",
+      "color": "#5973a6",
+      "credit": "Sam",
+      "creditUrl": "https://unsplash.com/@samtakespictures?utm_source=presto_ds&utm_medium=referral",
+      "id": "sSVyia9Hl90"
+    }
+  ],
+  "guests": [
+    {
+      "file": "guest-portrait.jpg",
+      "alt": "Hotel guest",
+      "credit": "Amir Seilsepour",
+      "creditUrl": "https://unsplash.com/@amiresel?utm_source=presto_ds&utm_medium=referral"
+    }
+  ],
+  "bar": [
+    {
+      "file": "bar/bar-1.jpg",
+      "alt": "people inside eatery",
+      "color": "#262626",
+      "credit": "Paul Griffin",
+      "creditUrl": "https://unsplash.com/@paulgriffin?utm_source=presto_ds&utm_medium=referral",
+      "id": "WWST6E8LxeE"
+    },
+    {
+      "file": "bar/bar-2.jpg",
+      "alt": "a lounge chair and umbrella on a lawn",
+      "color": "#262626",
+      "credit": "Yves Scheuber",
+      "creditUrl": "https://unsplash.com/@xgrt51m?utm_source=presto_ds&utm_medium=referral",
+      "id": "9s2gC2ikNZ0"
+    },
+    {
+      "file": "bar/bar-3.jpg",
+      "alt": "Bartender serves a drink to a customer at bar.",
+      "color": "#262626",
+      "credit": "Holiday Extras",
+      "creditUrl": "https://unsplash.com/@holidayextras?utm_source=presto_ds&utm_medium=referral",
+      "id": "ITh-nXlE9KY"
+    },
+    {
+      "file": "bar/bar-4.jpg",
+      "alt": "a tree in front of a house",
+      "color": "#262626",
+      "credit": "Yves Scheuber",
+      "creditUrl": "https://unsplash.com/@xgrt51m?utm_source=presto_ds&utm_medium=referral",
+      "id": "Qou19sWVhQs"
+    },
+    {
+      "file": "bar/bar-5.jpg",
+      "alt": "Cozy lounge with fireplace and bar",
+      "color": "#d9a68c",
+      "credit": "Andrew Lamb",
+      "creditUrl": "https://unsplash.com/@walesoutdoors?utm_source=presto_ds&utm_medium=referral",
+      "id": "Vhb3qrwpbCk"
+    },
+    {
+      "file": "bar/bar-6.jpg",
+      "alt": "A well-stocked bar with stools and seating.",
+      "color": "#59260c",
+      "credit": "Franco Debartolo",
+      "creditUrl": "https://unsplash.com/@francotheshooter?utm_source=presto_ds&utm_medium=referral",
+      "id": "x8uH8hjOWJs"
+    },
+    {
+      "file": "bar/bar-7.jpg",
+      "alt": "Sign reading \"the london club bar\".",
+      "color": "#594026",
+      "credit": "Lumin Osity",
+      "creditUrl": "https://unsplash.com/@lumin_osity?utm_source=presto_ds&utm_medium=referral",
+      "id": "eQb-dGurTeU"
+    },
+    {
+      "file": "bar/bar-8.jpg",
+      "alt": "A couple of drinks sitting on top of a table",
+      "color": "#d9c0a6",
+      "credit": "Polly Sadler",
+      "creditUrl": "https://unsplash.com/@pols__?utm_source=presto_ds&utm_medium=referral",
+      "id": "YZ5o3ZwIHCE"
+    }
+  ],
+  "bathroom": [
+    {
+      "file": "bathroom/bathroom-1.jpg",
+      "alt": "Modern bathroom with bathtub and toilet",
+      "color": "#a68c73",
+      "credit": "POOJAN THANEKAR",
+      "creditUrl": "https://unsplash.com/@poojanclicks?utm_source=presto_ds&utm_medium=referral",
+      "id": "q-LqibnwN8Y"
+    },
+    {
+      "file": "bathroom/bathroom-2.jpg",
+      "alt": "Luxurious marble bathroom with bathtub and vanity.",
+      "color": "#d9d9d9",
+      "credit": "Toa Heftiba",
+      "creditUrl": "https://unsplash.com/@heftiba?utm_source=presto_ds&utm_medium=referral",
+      "id": "PUMw1z67VmQ"
+    },
+    {
+      "file": "bathroom/bathroom-3.jpg",
+      "alt": "Modern bathroom with multiple sinks and mirrors.",
+      "color": "#40260c",
+      "credit": "Alban",
+      "creditUrl": "https://unsplash.com/@caufeux?utm_source=presto_ds&utm_medium=referral",
+      "id": "hgPtOHE82Ec"
+    },
+    {
+      "file": "bathroom/bathroom-4.jpg",
+      "alt": "A black and white bathroom with a tub and sink",
+      "color": "#262626",
+      "credit": "Alex Tyson",
+      "creditUrl": "https://unsplash.com/@alextyson195?utm_source=presto_ds&utm_medium=referral",
+      "id": "odhBaZK4eA0"
+    },
+    {
+      "file": "bathroom/bathroom-5.jpg",
+      "alt": "A bathroom with a toilet, sink, and shower",
+      "color": "#c0c0c0",
+      "credit": "The Prototype",
+      "creditUrl": "https://unsplash.com/@theprototype?utm_source=presto_ds&utm_medium=referral",
+      "id": "56jMlgClBeg"
+    },
+    {
+      "file": "bathroom/bathroom-6.jpg",
+      "alt": "A bathroom with a glass shower door and a bathtub",
+      "color": "#a68c59",
+      "credit": "Nisha Vastu &/ Dubai Property Consultant",
+      "creditUrl": "https://unsplash.com/@nisharoi?utm_source=presto_ds&utm_medium=referral",
+      "id": "GsANw1Zj3lo"
+    },
+    {
+      "file": "bathroom/bathroom-7.jpg",
+      "alt": "gray stainless steel faucet near mirror",
+      "color": "#c0c0c0",
+      "credit": "CHUTTERSNAP",
+      "creditUrl": "https://unsplash.com/@chuttersnap?utm_source=presto_ds&utm_medium=referral",
+      "id": "jdq_FOLmkU0"
+    },
+    {
+      "file": "bathroom/bathroom-8.jpg",
+      "alt": "A black and white bathroom with a sink and mirror",
+      "color": "#262626",
+      "credit": "Lisa Anna",
+      "creditUrl": "https://unsplash.com/@lisaanna195?utm_source=presto_ds&utm_medium=referral",
+      "id": "H82rlPUmedw"
+    }
+  ],
+  "views": [
+    {
+      "file": "views/views-1.jpg",
+      "alt": "brown wooden table and chairs near sea during daytime",
+      "color": "#404026",
+      "credit": "Shai Pal",
+      "creditUrl": "https://unsplash.com/@shaipal?utm_source=presto_ds&utm_medium=referral",
+      "id": "56WKMCORs-0"
+    },
+    {
+      "file": "views/views-2.jpg",
+      "alt": "Person wrapped in blanket looking out window",
+      "color": "#262626",
+      "credit": "Johnny Ho",
+      "creditUrl": "https://unsplash.com/@johnnyho_ho?utm_source=presto_ds&utm_medium=referral",
+      "id": "ezLEVj-rQK8"
+    },
+    {
+      "file": "views/views-3.jpg",
+      "alt": "Bottle of wine and glasses on table by ocean view.",
+      "color": "#262626",
+      "credit": "Antonio Araujo",
+      "creditUrl": "https://unsplash.com/@antonioaaaraujo?utm_source=presto_ds&utm_medium=referral",
+      "id": "R1NdTGhd9eM"
+    },
+    {
+      "file": "views/views-4.jpg",
+      "alt": "Two chairs and table overlook ocean view",
+      "color": "#262626",
+      "credit": "Johnny Ho",
+      "creditUrl": "https://unsplash.com/@johnnyho_ho?utm_source=presto_ds&utm_medium=referral",
+      "id": "J24R8RLPj1A"
+    },
+    {
+      "file": "views/views-5.jpg",
+      "alt": "A luxurious bathroom with a bathtub overlooking the turquoise ocean.",
+      "color": "#262626",
+      "credit": "Yunshuo Qu",
+      "creditUrl": "https://unsplash.com/@yunshuoqu?utm_source=presto_ds&utm_medium=referral",
+      "id": "cKMz8A5Aytg"
+    },
+    {
+      "file": "views/views-6.jpg",
+      "alt": "Balcony view of tropical beach and turquoise ocean",
+      "color": "#73a6d9",
+      "credit": "Braden Wagner",
+      "creditUrl": "https://unsplash.com/@inventorb?utm_source=presto_ds&utm_medium=referral",
+      "id": "eA8cCPN7u1A"
+    },
+    {
+      "file": "views/views-7.jpg",
+      "alt": "Man looking out window at the ocean sunset",
+      "color": "#f3f3f3",
+      "credit": "Sandra Mosconi",
+      "creditUrl": "https://unsplash.com/@sanmosconi?utm_source=presto_ds&utm_medium=referral",
+      "id": "UYAKvtbcUHE"
+    },
+    {
+      "file": "views/views-8.jpg",
+      "alt": "Open doorway reveals bright blue ocean view.",
+      "color": "#73a6a6",
+      "credit": "XinYing Lin",
+      "creditUrl": "https://unsplash.com/@xinyinglin?utm_source=presto_ds&utm_medium=referral",
+      "id": "0hEHeoCiVFE"
+    }
+  ],
+  "destinations": [
+    {
+      "file": "destinations/destinations-1.jpg",
+      "alt": "Eiffel tower and cityscape on a clear day",
+      "color": "#a6a6a6",
+      "credit": "Aurora Song",
+      "creditUrl": "https://unsplash.com/@auroras13?utm_source=presto_ds&utm_medium=referral",
+      "id": "6e1Bq3_77eU"
+    },
+    {
+      "file": "destinations/destinations-2.jpg",
+      "alt": "Eiffel tower illuminated at night over the seine river.",
+      "color": "#0c2626",
+      "credit": "Kiarash Mansouri",
+      "creditUrl": "https://unsplash.com/@kiarash_mansouri?utm_source=presto_ds&utm_medium=referral",
+      "id": "o82VrILeiPo"
+    },
+    {
+      "file": "destinations/destinations-3.jpg",
+      "alt": "Eiffel tower stands tall over the paris cityscape.",
+      "color": "#a6a6a6",
+      "credit": "Aurora Song",
+      "creditUrl": "https://unsplash.com/@auroras13?utm_source=presto_ds&utm_medium=referral",
+      "id": "2ecJ5QAdupc"
+    },
+    {
+      "file": "destinations/destinations-4.jpg",
+      "alt": "Cityscape with sacré-cœur basilica at dusk",
+      "color": "#c0c0c0",
+      "credit": "Aurora Song",
+      "creditUrl": "https://unsplash.com/@auroras13?utm_source=presto_ds&utm_medium=referral",
+      "id": "MsCZUf9xFbY"
+    },
+    {
+      "file": "destinations/destinations-5.jpg",
+      "alt": "Tower bridge in london at sunset",
+      "color": "#737373",
+      "credit": "Kamilla Isalieva",
+      "creditUrl": "https://unsplash.com/@kamillaisalieva?utm_source=presto_ds&utm_medium=referral",
+      "id": "nxR2gI8YSeE"
+    },
+    {
+      "file": "destinations/destinations-6.jpg",
+      "alt": "white bridge over the river",
+      "color": "#738c8c",
+      "credit": "Edson Junior",
+      "creditUrl": "https://unsplash.com/@roinuj16?utm_source=presto_ds&utm_medium=referral",
+      "id": "MKW6C9qgfbA"
+    },
+    {
+      "file": "destinations/destinations-7.jpg",
+      "alt": "The eiffel tower stands tall against a clear blue sky.",
+      "color": "#73a6c0",
+      "credit": "William Dmytrow",
+      "creditUrl": "https://unsplash.com/@williamdmytrow?utm_source=presto_ds&utm_medium=referral",
+      "id": "uisGspJHHa4"
+    },
+    {
+      "file": "destinations/destinations-8.jpg",
+      "alt": "Iconic eiffel tower against a clear blue sky.",
+      "color": "#40a6d9",
+      "credit": "Andy Thanh Hai",
+      "creditUrl": "https://unsplash.com/@andythanhhaii?utm_source=presto_ds&utm_medium=referral",
+      "id": "zRoCMjW4_9Q"
+    }
+  ],
+  "amenities": [
+    {
+      "file": "amenities/amenities-1.jpg",
+      "alt": "exercise equipments inside a room",
+      "color": "#c0c0c0",
+      "credit": "Point3D Commercial Imaging Ltd.",
+      "creditUrl": "https://unsplash.com/@3dottawa?utm_source=presto_ds&utm_medium=referral",
+      "id": "TEbVwp3WC0E"
+    },
+    {
+      "file": "amenities/amenities-2.jpg",
+      "alt": "a gym with treadmills and exercise machines",
+      "color": "#402626",
+      "credit": "Andrew Kayani",
+      "creditUrl": "https://unsplash.com/@the_gallery?utm_source=presto_ds&utm_medium=referral",
+      "id": "kCbCaLaiLLo"
+    },
+    {
+      "file": "amenities/amenities-3.jpg",
+      "alt": "a gym with exercise equipment",
+      "color": "#a67340",
+      "credit": "Aparna Johri",
+      "creditUrl": "https://unsplash.com/@healthywithaparna?utm_source=presto_ds&utm_medium=referral",
+      "id": "2ZF0q3nnuCQ"
+    },
+    {
+      "file": "amenities/amenities-4.jpg",
+      "alt": "a gym with a view of the city",
+      "color": "#f3f3d9",
+      "credit": "Red Reyes",
+      "creditUrl": "https://unsplash.com/@silentlymine?utm_source=presto_ds&utm_medium=referral",
+      "id": "lvMR5ebekPM"
+    },
+    {
+      "file": "amenities/amenities-5.jpg",
+      "alt": "A gym with a mirror and a treadmill",
+      "color": "#26260c",
+      "credit": "sati",
+      "creditUrl": "https://unsplash.com/@sati_?utm_source=presto_ds&utm_medium=referral",
+      "id": "yqc77vmpNaM"
+    },
+    {
+      "file": "amenities/amenities-6.jpg",
+      "alt": "black and gray treadmill near white wall",
+      "color": "#d9d9d9",
+      "credit": "Point3D Commercial Imaging Ltd.",
+      "creditUrl": "https://unsplash.com/@3dottawa?utm_source=presto_ds&utm_medium=referral",
+      "id": "10_Bx7IJqGc"
+    },
+    {
+      "file": "amenities/amenities-7.jpg",
+      "alt": "A dimly lit gym with treadmills and monitors",
+      "color": "#260c0c",
+      "credit": "sati",
+      "creditUrl": "https://unsplash.com/@sati_?utm_source=presto_ds&utm_medium=referral",
+      "id": "TGS1hpejUuo"
+    },
+    {
+      "file": "amenities/amenities-8.jpg",
+      "alt": "a gym with exercise equipment",
+      "color": "#a68c73",
+      "credit": "Aparna Johri",
+      "creditUrl": "https://unsplash.com/@healthywithaparna?utm_source=presto_ds&utm_medium=referral",
+      "id": "tBcAuzYNn0Y"
+    }
+  ]
+}
