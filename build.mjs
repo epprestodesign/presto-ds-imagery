@@ -31,7 +31,7 @@ const CATS = [
   { key: 'exterior', q: 'luxury hotel building exterior' },
   { key: 'views', q: 'hotel room balcony ocean view' },
   { key: 'destinations', q: 'travel destination landmark city' },
-  { key: 'guests', q: 'happy travelers couple hotel' },
+  { key: 'guests', q: 'travelers vacation people' },
   { key: 'amenities', q: 'hotel gym fitness center' },
 ]
 
@@ -43,7 +43,8 @@ const apiGet = async (url) => {
   if (!res.ok) throw new Error(String(res.status)); return res.json()
 }
 
-for (const { key, q } of CATS) {
+const ordered = [...CATS].sort((a, b) => (manifest[a.key]?.length || 0) - (manifest[b.key]?.length || 0));
+for (const { key, q } of ordered) {
   const existing = manifest[key] || []
   if (existing.length >= TARGET) { console.log(`• ${key}: ${existing.length}/${TARGET}, skip`); continue }
   if (rate <= 1) { console.log('! rate limit — re-run next hour'); break }
